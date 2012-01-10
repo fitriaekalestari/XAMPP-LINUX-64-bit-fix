@@ -1,0 +1,13 @@
+This is the original Xampp file modified for 64-bit use of debian based OS.
+
+To ensure success install 32-bit libraries if you have not already.
+Type the following in the prompt :$ sudo apt-get install ia32-libs (without $ symbol)
+
+Now copy and paste the lampp file from the download destination to your /opt/lampp folder.
+The terminal line is:
+$su
+enter your password:
+$cp /home/"your user name"/Downloads/XAMPP-LINUX-64-bit-fix  /opt/lampp/
+$
+
+The file will be copied over and replace the existing lampp file.
