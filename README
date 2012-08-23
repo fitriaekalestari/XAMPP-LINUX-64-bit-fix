@@ -7,7 +7,7 @@ Now copy and paste the lampp file from the download destination to your /opt/lam
 The terminal line is:
 $su
 enter your password:
-$sudo cp /home/"your user name"/Downloads/dring-1XAMPP-LINUX-64-bit-fix  /opt/lampp/
+$ cp /home/"your user name"/Downloads/dring-1XAMPP-LINUX-64-bit-fix  /opt/lampp/
 $
 
 The file will be copied over and replace the existing lampp file.
